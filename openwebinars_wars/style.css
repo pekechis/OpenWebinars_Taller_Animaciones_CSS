@@ -31,6 +31,7 @@ body {
   animation-duration: 25s;
   animation-iteration-count: 1;
   transform: perspective(300px) rotateX(15deg);
+  /* Para probar https://webcode.tools/css-generator/perspective */
 }
 
 #slidingText p {
