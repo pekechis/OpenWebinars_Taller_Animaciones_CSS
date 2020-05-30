@@ -15,7 +15,7 @@
 }
 
 /* Estilos para rotar las imágenes */
-/* img:nth-of-type(1) {
+/*img:nth-of-type(1) {
   transform: rotate(45deg);
 }
 
@@ -29,10 +29,10 @@ img:nth-of-type(3) {
 
 img:nth-of-type(4) {
   transform: rotate(-45deg);
-} */
+}*/
 
 /* Estilos para escalar las imágenes */
-/* img:nth-of-type(1) {
+/*img:nth-of-type(1) {
   transform: scale(2, 2);
 }
 
@@ -45,10 +45,10 @@ img:nth-of-type(3) {
 }
 
 img:nth-of-type(4) {
-  transform: scale(2, 2);
+  transform: scale(2, 1.5);
 } */
 
-/* Estilos para despplazar las imágenes */
+/* Estilos para desplazar las imágenes */
 /*img:nth-of-type(1) {
   transform: translate(2rem, 2rem);
 }
@@ -63,11 +63,11 @@ img:nth-of-type(3) {
 
 img:nth-of-type(4) {
   transform: translate(-2rem, -2rem);
-} */
+}*/
 
 /* Estilos para el sesgado */
 /*img:nth-of-type(1) {
-  transform: skewX(15deg) skewY(15deg);
+  transform: skew(15deg, 15deg);
 }
 
 img:nth-of-type(2) {
@@ -83,16 +83,16 @@ img:nth-of-type(4) {
 } */
 
 /* Trasformaciones combinadas */
-/* img:nth-of-type(2) {
+/*img:nth-of-type(2) {
   transform: rotate(30deg) scale(1.5, 1.5) translateY(100px);
 } */
 
 /* Modificando el origen de la rotación */
-img:nth-of-type(1) {
+/*img:nth-of-type(1) {
   transform: rotate(45deg);
   transform-origin: top left;
 }
 
 img:nth-of-type(4) {
   transform: rotate(45deg);
-}
+}*/
